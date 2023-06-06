@@ -1,5 +1,4 @@
-//Dimitri van Well's CSC6220 Homework 4: OMP Program
-//ID: gj7192
+//Dimitri van Well's || OMP Program
 //Compiler Command for this program: gcc -fopenmp -o HW4 vanWell_Dimitri_CSC6220_HW4.c -lm
 
 #include <math.h>
