@@ -9,3 +9,15 @@ NOTE: Some projects were written with a companioned job script in order to run o
 
 
 The majority of files you'll find here are large input matrix arthimetic utilizing low level parallel methods like multithreading, openMP, and MPI.
+
+
+
+
+
+This class was beyond interesting and getting to do it as an undergrad was a privilege in it self. It felt daunting, sitting around 3rd year 
+masters students or even phd students. There was definitely a learning curve but once I sat down and put the time and effort in, everything made
+sense. 
+
+By far the best part was sending the job request out and waiting for it to compile on the HPC and then it worked... or showed any sign of working
+to begin with. If you haven't already I can't suggest enough that you learn parallel computing. 
+
